@@ -1,0 +1,270 @@
+11:24:15.346 > Burn time = 570 ms
+
+11:24:15.359 > Starting Slot 2
+
+11:24:15.363 > [243076 ms] Task 1 running
+
+11:24:15.474 > [243186 ms] Task 4 running
+
+11:24:16.342 > Burn time = 470 ms
+
+11:24:16.358 > Starting Slot 3
+
+11:24:16.369 > [244076 ms] Task 5 running
+
+11:24:17.344 > Burn time = 480 ms
+
+11:24:17.358 > === Cycle 60 ===
+
+11:24:17.369 > Starting Slot 0
+
+11:24:17.377 > [245086 ms] Task 1 running
+
+11:24:17.485 > [245196 ms] Task 2 running
+
+11:24:18.342 > Burn time = 660 ms
+
+11:24:18.358 > Starting Slot 1
+
+11:24:18.368 > [246076 ms] Task 1 running
+
+11:24:18.469 > [246186 ms] Task 3 running
+
+11:24:19.343 > Burn time = 570 ms
+
+11:24:19.358 > Starting Slot 2
+
+11:24:19.368 > [247076 ms] Task 1 running
+
+11:24:19.477 > [247186 ms] Task 4 running
+
+11:24:20.344 > Burn time = 470 ms
+
+11:24:20.356 > Starting Slot 3
+
+11:24:20.368 > [248076 ms] Task 5 running
+
+11:24:21.343 > Burn time = 480 ms
+
+11:24:21.358 > === Cycle 61 ===
+
+11:24:21.368 > Starting Slot 0
+
+11:24:21.378 > [249086 ms] Task 1 running
+
+11:24:21.486 > [249197 ms] Task 2 running
+
+11:24:22.347 > Burn time = 659 ms
+
+11:24:22.357 > Starting Slot 1
+
+11:24:22.367 > [250076 ms] Task 1 running
+
+11:24:22.476 > [250186 ms] Task 3 running
+
+11:24:23.346 > Burn time = 570 ms
+
+11:24:23.357 > Starting Slot 2
+
+11:24:23.364 > [251076 ms] Task 1 running
+
+11:24:23.477 > [251186 ms] Task 4 running
+
+11:24:24.345 > Burn time = 470 ms
+
+11:24:24.357 > Starting Slot 3
+
+11:24:24.366 > [252076 ms] Task 5 running
+
+11:24:25.342 > Burn time = 480 ms
+
+11:24:25.356 > === Cycle 62 ===
+
+11:24:25.366 > Starting Slot 0
+
+11:24:25.377 > [253086 ms] Task 1 running
+
+11:24:25.481 > [253196 ms] Task 2 running
+
+11:24:26.346 > Burn time = 660 ms
+
+11:24:26.356 > Starting Slot 1
+
+11:24:26.366 > [254076 ms] Task 1 running
+
+11:24:26.474 > [254186 ms] Task 3 running
+
+11:24:27.343 > Burn time = 570 ms
+
+11:24:27.356 > Starting Slot 2
+
+11:24:27.366 > [255076 ms] Task 1 running
+
+11:24:27.474 > [255186 ms] Task 4 running
+
+11:24:28.342 > Burn time = 470 ms
+
+11:24:28.355 > Starting Slot 3
+
+11:24:28.366 > [256076 ms] Task 5 running
+
+11:24:29.346 > Burn time = 480 ms
+
+11:24:29.356 > === Cycle 63 ===
+
+11:24:29.366 > Starting Slot 0
+
+11:24:29.377 > [257086 ms] Task 1 running
+
+11:24:29.485 > [257197 ms] Task 2 running
+
+11:24:30.346 > Burn time = 659 ms
+
+11:24:30.355 > Starting Slot 1
+
+11:24:30.366 > [258076 ms] Task 1 running
+
+11:24:30.474 > [258186 ms] Task 3 running
+
+11:24:31.345 > Burn time = 570 ms
+
+11:24:31.355 > Starting Slot 2
+
+11:24:31.366 > [259076 ms] Task 1 running
+
+11:24:31.474 > [259186 ms] Task 4 running
+
+11:24:32.344 > Burn time = 470 ms
+
+11:24:32.356 > Starting Slot 3
+
+11:24:32.365 > [260076 ms] Task 5 running
+
+11:24:33.345 > Burn time = 480 ms
+
+11:24:33.355 > === Cycle 64 ===
+
+11:24:33.365 > Starting Slot 0
+
+11:24:33.374 > [261086 ms] Task 1 running
+
+11:24:33.485 > [261196 ms] Task 2 running
+
+11:24:34.345 > Burn time = 660 ms
+
+11:24:34.354 > Starting Slot 1
+
+11:24:34.365 > [262076 ms] Task 1 running
+
+11:24:34.474 > [262186 ms] Task 3 running
+
+11:24:35.342 > Burn time = 570 ms
+
+11:24:35.355 > Starting Slot 2
+
+11:24:35.364 > [263076 ms] Task 1 running
+
+11:24:35.471 > [263186 ms] Task 4 running
+
+11:24:36.344 > Burn time = 470 ms
+
+11:24:36.355 > Starting Slot 3
+
+11:24:36.365 > [264076 ms] Task 5 running
+
+11:24:37.344 > Burn time = 480 ms
+
+11:24:37.354 > === Cycle 65 ===
+
+11:24:37.363 > Starting Slot 0
+
+11:24:37.374 > [265086 ms] Task 1 running
+
+11:24:37.484 > [265196 ms] Task 2 running
+
+11:24:38.344 > Burn time = 660 ms
+
+11:24:38.354 > Starting Slot 1
+
+11:24:38.364 > [266076 ms] Task 1 running
+
+11:24:38.474 > [266186 ms] Task 3 running
+
+11:24:39.343 > Burn time = 570 ms
+
+11:24:39.354 > Starting Slot 2
+
+11:24:39.364 > [267076 ms] Task 1 running
+
+11:24:39.467 > [267186 ms] Task 4 running
+
+11:24:40.342 > Burn time = 470 ms
+
+11:24:40.349 > Starting Slot 3
+
+11:24:40.364 > [268076 ms] Task 5 running
+
+11:24:41.343 > Burn time = 480 ms
+
+11:24:41.353 > === Cycle 66 ===
+
+11:24:41.363 > Starting Slot 0
+
+11:24:41.371 > [269086 ms] Task 1 running
+
+11:24:41.483 > [269196 ms] Task 2 running
+
+11:24:42.342 > Burn time = 660 ms
+
+11:24:42.353 > Starting Slot 1
+
+11:24:42.363 > [270076 ms] Task 1 running
+
+11:24:42.471 > [270186 ms] Task 3 running
+
+11:24:43.343 > Burn time = 570 ms
+
+11:24:43.349 > Starting Slot 2
+
+11:24:43.363 > [271076 ms] Task 1 running
+
+11:24:43.473 > [271186 ms] Task 4 running
+
+11:24:44.342 > Burn time = 470 ms
+
+11:24:44.353 > Starting Slot 3
+
+11:24:44.362 > [272076 ms] Task 5 running
+
+11:24:45.342 > Burn time = 480 ms
+
+11:24:45.349 > === Cycle 67 ===
+
+11:24:45.362 > Starting Slot 0
+
+11:24:45.373 > [273086 ms] Task 1 running
+
+11:24:45.483 > [273196 ms] Task 2 running
+
+11:24:46.342 > Burn time = 660 ms
+
+11:24:46.350 > Starting Slot 1
+
+11:24:46.362 > [274076 ms] Task 1 running
+
+11:24:46.473 > [274186 ms] Task 3 running
+
+11:24:47.341 > Burn time = 569 ms
+
+11:24:47.351 > Starting Slot 2
+
+11:24:47.362 > [275076 ms] Task 1 running
+
+11:24:47.472 > [275186 ms] Task 4 running
+
+11:24:48.335 > Burn time = 470 ms
+
+11:24:48.352 > Starting Slot 3
+
+11:24:48.361 > [276076 ms] Task 5 running
+
